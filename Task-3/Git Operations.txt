@@ -1,1 +1,15 @@
+Git Operations
 
+Add
+Checkout
+Checkout-b
+Clone
+Commit
+Commit-a
+Fetch
+Merge
+Pull
+Push
+Reset
+Rebase
+Fork

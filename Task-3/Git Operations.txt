@@ -13,3 +13,5 @@ Push
 Reset
 Rebase
 Fork
+
+(Status)
